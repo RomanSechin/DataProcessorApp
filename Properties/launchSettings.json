@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DataProcessorApp": {
+      "commandName": "Project",
+      "commandLineArgs": "--file C:\\"
+    }
+  }
+}
